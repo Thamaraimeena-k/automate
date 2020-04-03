@@ -67,6 +67,12 @@ sudoers:
 
 sudoers_flights:
 
+  - name: "Meenakshi"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
+
+
   - name: "Deendayal garg "
     username: "deendayal_19779"
     emp_id: "19779"
@@ -90,6 +96,12 @@ sudoers_flights:
     group: "sudo"
 
 flights:
+
+  - name: "Meenakshi"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
+
 
   - name: "Prabin Kumar Hota"
     username: "prabin_19533"
@@ -499,6 +511,12 @@ deployment:
 
   - name: "Flights User"
     username: "flights"
+
+  - name: "Meenakshi"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
+
     emp_id: "5019"
     group: "staff"
 
@@ -1280,6 +1298,12 @@ bus_ro:
 #This group is used for adding cross category folks
 
 flights_db_temp:
+
+  - name: "Meenakshi"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
+
   - name: "Khushboo Sharma"
     username: "khushboo_24335"
     emp_id: "24335"
