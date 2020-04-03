@@ -91,6 +91,11 @@ sudoers_flights:
 
 flights:
 
+  - name: "thaaaamu"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
+
   - name: "Prabin Kumar Hota"
     username: "prabin_19533"
     emp_id: "19533"
@@ -499,6 +504,11 @@ deployment:
 
   - name: "Flights User"
     username: "flights"
+
+  - name: "thaaaamu"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
     emp_id: "5019"
     group: "staff"
 
