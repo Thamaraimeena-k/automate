@@ -1277,6 +1277,11 @@ trainsnilgiri:
 
 bus_ro:
 
+  - name: "Paapukutty"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
+
 #This group is used for adding cross category folks
 
 flights_db_temp:
