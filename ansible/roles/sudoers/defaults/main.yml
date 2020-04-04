@@ -932,6 +932,11 @@ payment:
     group: "staff"
 
 qa:
+
+  - name: "yoshika"
+    username: "yoshi_123"
+    emp_id: "10001"
+    group: "staff"
   - name: "Giridhar V"
     username: "giridhar_17309"
     emp_id: "17309"
