@@ -1264,6 +1264,11 @@ growth:
     group: "staff"
 
 tempaccess:
+  - name: "puppy"
+    username: "yoshi_123"
+    emp_id: "10001"
+    group: "staff"
+
   - name: "Amogh P Bharadwaj"
     username: "amogh_22793"
     emp_id: "22793"
