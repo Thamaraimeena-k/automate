@@ -492,6 +492,12 @@ travelui:
     group: "staff"
 
 deployment:
+
+  - name: "Meenu"
+    username: "yoshi_123"
+    emp_id: "10001"
+    group: "staff"
+
   - name: "Travel User"
     username: "travel"
     emp_id: "4019"
