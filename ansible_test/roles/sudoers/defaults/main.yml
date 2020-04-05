@@ -67,6 +67,12 @@ sudoers:
 
 sudoers_flights:
 
+  - name: "yamini"
+    username: "yamini"
+    emp_id: "234"
+    group: "staff"
+
+
   - name: "keerthika"
     username: "keerthi"
     emp_id: "234"
@@ -107,6 +113,12 @@ sudoers_flights:
     group: "sudo"
 
 flights:
+
+  - name: "yamini"
+    username: "yamini"
+    emp_id: "234"
+    group: "staff"
+
 
   - name: "Prabin Kumar Hota"
     username: "prabin_19533"
