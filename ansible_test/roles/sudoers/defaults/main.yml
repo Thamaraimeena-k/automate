@@ -1116,6 +1116,12 @@ qa:
     group: "staff"
 
 product:
+
+  - name: "abu"
+    username: "abu"
+    emp_id: "5678"
+    group: "entreprenaur"
+
   - name: "Ananth Kachroo"
     username: "ananth_18677"
     emp_id: "18677"
