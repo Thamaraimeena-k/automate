@@ -119,6 +119,11 @@ sudoers_flights:
     group: "sudo"
 
 flights:
+ - name: "abu2"
+    username: "abu"
+    emp_id: "5678"
+    group: "entreprenaur"
+
 
   - name: "Prabin Kumar Hota"
     username: "prabin_19533"
