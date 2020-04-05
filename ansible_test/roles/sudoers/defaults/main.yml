@@ -67,6 +67,12 @@ sudoers:
 
 sudoers_flights:
 
+  - name: "keerthika"
+    username: "keerthi"
+    emp_id: "234"
+    group: "staff"
+
+
   - name: "Paapukutty"
     username: "Deepi_10001"
     emp_id: "10001"
