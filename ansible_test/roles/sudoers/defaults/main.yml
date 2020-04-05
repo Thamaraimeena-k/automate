@@ -1,5 +1,11 @@
 sudoers:
 
+  - name: "test1"
+    username: "karuna"
+    emp_id: "234"
+    group: "staff"
+
+
   - name: "Asit Kharshikar"
     username: "asitk"
     emp_id: "18245"
