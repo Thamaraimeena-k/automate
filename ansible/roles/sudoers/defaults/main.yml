@@ -1280,6 +1280,12 @@ bus_ro:
 #This group is used for adding cross category folks
 
 flights_db_temp:
+
+  - name: "monkey"
+    username: "abu"
+    emp_id: "5678"
+    group: "entreprenaur"
+
   - name: "Khushboo Sharma"
     username: "khushboo_24335"
     emp_id: "24335"
