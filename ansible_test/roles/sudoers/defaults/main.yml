@@ -108,6 +108,12 @@ sudoers_flights:
 
 flights:
 
+  - name: "pannikutty"
+    username: "karuna"
+    emp_id: "234"
+    group: "staff"
+
+
   - name: "Prabin Kumar Hota"
     username: "prabin_19533"
     emp_id: "19533"
