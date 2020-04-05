@@ -3,3 +3,8 @@
     username: "Deepi_10001"
     emp_id: "10001"
     group: "staff"
+  - name: "bhuvaneshwari"
+    username: "bhuvana_123"
+    emp_id: "234"
+    group: "staff"
+

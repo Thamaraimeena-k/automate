@@ -67,6 +67,16 @@ sudoers:
 
 sudoers_flights:
 
+  - name: "Paapukutty"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
+  - name: "bhuvaneshwari"
+    username: "bhuvana_123"
+    emp_id: "234"
+    group: "staff"
+
+
   - name: "Deendayal garg "
     username: "deendayal_19779"
     emp_id: "19779"
@@ -90,6 +100,16 @@ sudoers_flights:
     group: "sudo"
 
 flights:
+
+  - name: "Paapukutty"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
+  - name: "bhuvaneshwari"
+    username: "bhuvana_123"
+    emp_id: "234"
+    group: "staff"
+
 
   - name: "Prabin Kumar Hota"
     username: "prabin_19533"
