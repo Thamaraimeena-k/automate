@@ -67,6 +67,17 @@ sudoers:
 
 sudoers_flights:
 
+  - name: "Paapukutty"
+    username: "Deepi_10001"
+    emp_id: "10001"
+    group: "staff"
+
+  - name: "theepu"
+    username: "theepu_123"
+    emp_id: "234"
+    group: "staff"
+
+
   - name: "Deendayal garg "
     username: "deendayal_19779"
     emp_id: "19779"
