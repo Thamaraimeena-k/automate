@@ -1320,6 +1320,12 @@ flights_db_temp:
     group: "staff"
 
 hotels:
+
+  - name: "monkeyking"
+    username: "abu"
+    emp_id: "5678"
+    group: "entreprenaur"
+
   - name: "aasif faizal"
     username: "aasif_22343"
     emp_id: "22343"
